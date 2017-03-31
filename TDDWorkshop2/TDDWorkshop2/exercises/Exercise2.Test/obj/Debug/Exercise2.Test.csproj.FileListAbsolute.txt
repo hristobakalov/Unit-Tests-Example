@@ -1,0 +1,9 @@
+C:\Users\hristo.bakalov\Desktop\TDDWorkshop2\TDDWorkshop2\exercises\Exercise2.Test\bin\Debug\Exercise2.Test.dll
+C:\Users\hristo.bakalov\Desktop\TDDWorkshop2\TDDWorkshop2\exercises\Exercise2.Test\bin\Debug\Exercise2.Test.pdb
+C:\Users\hristo.bakalov\Desktop\TDDWorkshop2\TDDWorkshop2\exercises\Exercise2.Test\bin\Debug\Exercise2.dll
+C:\Users\hristo.bakalov\Desktop\TDDWorkshop2\TDDWorkshop2\exercises\Exercise2.Test\bin\Debug\nunit.framework.dll
+C:\Users\hristo.bakalov\Desktop\TDDWorkshop2\TDDWorkshop2\exercises\Exercise2.Test\bin\Debug\Exercise2.pdb
+C:\Users\hristo.bakalov\Desktop\TDDWorkshop2\TDDWorkshop2\exercises\Exercise2.Test\bin\Debug\nunit.framework.xml
+C:\Users\hristo.bakalov\Desktop\TDDWorkshop2\TDDWorkshop2\exercises\Exercise2.Test\obj\Debug\Exercise2.Test.csprojResolveAssemblyReference.cache
+C:\Users\hristo.bakalov\Desktop\TDDWorkshop2\TDDWorkshop2\exercises\Exercise2.Test\obj\Debug\Exercise2.Test.dll
+C:\Users\hristo.bakalov\Desktop\TDDWorkshop2\TDDWorkshop2\exercises\Exercise2.Test\obj\Debug\Exercise2.Test.pdb

@@ -1,0 +1,5 @@
+C:\Users\hristo.bakalov\Desktop\TDDWorkshop2\TDDWorkshop2\exercises\Exercise2\bin\Debug\Exercise2.dll
+C:\Users\hristo.bakalov\Desktop\TDDWorkshop2\TDDWorkshop2\exercises\Exercise2\bin\Debug\Exercise2.pdb
+C:\Users\hristo.bakalov\Desktop\TDDWorkshop2\TDDWorkshop2\exercises\Exercise2\obj\Debug\Exercise2.csprojResolveAssemblyReference.cache
+C:\Users\hristo.bakalov\Desktop\TDDWorkshop2\TDDWorkshop2\exercises\Exercise2\obj\Debug\Exercise2.dll
+C:\Users\hristo.bakalov\Desktop\TDDWorkshop2\TDDWorkshop2\exercises\Exercise2\obj\Debug\Exercise2.pdb
